@@ -1,0 +1,1616 @@
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+
+<--- Last few GCs --->
+
+[6052:00000227DB7CCF20] 86764571 ms: Scavenge 20.9 (22.1) -> 20.2 (22.4) MB, 2.9 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+[6052:00000227DB7CCF20] 87484612 ms: Scavenge 21.1 (22.4) -> 20.4 (22.6) MB, 1.1 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+[6052:00000227DB7CCF20] 88025218 ms: Scavenge 21.2 (22.6) -> 20.6 (22.9) MB, 3.7 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF6165B30AF 
+ 2: 00007FF616542216 
+ 3: 00007FF6165430CD 
+ 4: 00007FF616E74B6E 
+ 5: 00007FF616E5F09D 
+ 6: 00007FF616D0268C 
+ 7: 00007FF616D0C3AF 
+ 8: 00007FF616CFEF89 
+ 9: 00007FF616CFD140 
+10: 00007FF616D1ADB0 
+11: 00007FF616D1B465 
+12: 00007FF616D2D15E 
+13: 00007FF616D2FDBA 
+14: 00007FF616D2FCDD 
+15: 00007FF616B7015D 
+16: 00007FF616B73284 
+17: 00007FF616B72D5B 
+18: 00007FF616B71D40 
+19: 00007FF616B74AFB 
+20: 00007FF616B748C5 
+21: 00007FF616B8D35B 
+22: 00007FF616A4DBFE 
+23: 00007FF616F02541 
+24: 00007FF616EE7E55 
+25: 00000227DC06D9B1 
+
+
+#
+# Fatal error in , line 0
+# Fatal process out of memory: Zone
+#
+#
+#
+#FailureMessage Object: 0000005F406F9DC0
+ 1: 00007FF6165B30AF 
+ 2: 00007FF6164D023F 
+ 3: 00007FF6171A6392 
+ 4: 00007FF616E5EEAE 
+ 5: 00007FF6169FA1F7 
+ 6: 00007FF61682DF2A 
+ 7: 00007FF6172D49E2 
+ 8: 00007FF6172C7534 
+ 9: 00007FF617255DB3 
+10: 00007FF61726211A 
+11: 00007FF61725C0D6 
+12: 00007FF617257891 
+13: 00007FF616DF6AE1 
+14: 00007FF616DC7A39 
+15: 00007FF616DC850A 
+16: 00007FF6164D2BCD 
+17: 00007FF6166022DD 
+18: 00007FF617413DF0 
+19: 00007FFC9D667034 
+20: 00007FFC9E462651 
+
+<--- Last few GCs --->
+
+[8872:0000015E1933A840]      171 ms: Scavenge 13.5 (18.2) -> 11.1 (18.7) MB, 0.9 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+[8872:0000015E1933A840]      232 ms: Scavenge 14.3 (18.9) -> 12.2 (19.9) MB, 25.9 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+[8872:0000015E1933A840]      275 ms: Scavenge 15.7 (20.2) -> 13.3 (21.7) MB, 0.7 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Zone Allocation failed - process out of memory
+ 1: 00007FF6165B30AF 
+ 2: 00007FF616542216 
+ 3: 00007FF6165430CD 
+ 4: 00007FF616E74B6E 
+ 5: 00007FF616E5F09D 
+ 6: 00007FF6169FA1F7 
+ 7: 00007FF616A031F9 
+ 8: 00007FF616A02DD6 
+ 9: 00007FF616A029A3 
+10: 00007FF616D41986 
+11: 00007FF6171BE678 
+12: 00007FF6172761ED 
+13: 00007FF6171DDEBB 
+14: 00007FF6171D2509 
+15: 00007FF61724F830 
+16: 00007FF617256DE7 
+17: 00007FF61725C663 
+18: 00007FF616DFBB8D 
+19: 00007FF616DFBC50 
+20: 00007FF616DF90A4 
+21: 00007FF616DF8CA9 
+22: 00007FF616DF54EF 
+23: 00007FF616A5E799 
+24: 00007FF616F02541 
+25: 00007FF616E953B4 
+26: 0000015E19B0EF69 
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+
+<--- Last few GCs --->
+
+[1180:00000265D23AE310] 28082643 ms: Scavenge 15.7 (21.9) -> 15.0 (21.9) MB, 0.4 / 0.0 ms  (average mu = 1.000, current mu = 1.000) task 
+[1180:00000265D23AE310] 28622672 ms: Scavenge 15.9 (21.9) -> 15.2 (21.9) MB, 3.6 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+[1180:00000265D23AE310] 29342103 ms: Scavenge 16.0 (21.9) -> 15.3 (21.9) MB, 0.4 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF7511530AF 
+ 2: 00007FF7510E2216 
+ 3: 00007FF7510E30CD 
+ 4: 00007FF751A14B6E 
+ 5: 00007FF7519FF09D 
+ 6: 00007FF7518A268C 
+ 7: 00007FF7518AC3AF 
+ 8: 00007FF75189EF89 
+ 9: 00007FF75189D140 
+10: 00007FF7518BADB0 
+11: 00007FF7518BB465 
+12: 00007FF7518CD15E 
+13: 00007FF7518CFDBA 
+14: 00007FF7518D0013 
+15: 00007FF7516D70D6 
+16: 00007FF7516D4E7A 
+17: 00007FF7516DD106 
+18: 00007FF751709A96 
+19: 00007FF7516DE625 
+20: 00007FF751720C5C 
+21: 00007FF7517200FB 
+22: 00007FF75172D62A 
+23: 00007FF7515EA698 
+24: 00007FF751AA2541 
+25: 00000265D2C84B41 
+
+<--- Last few GCs --->
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF7511530AF 
+ 2: 00007FF7510E2216 
+ 3: 00007FF7510E30CD 
+ 4: 00007FF751A14B6E 
+ 5: 00007FF7519FF09D 
+ 6: 00007FF7518A268C 
+ 7: 00007FF7518AC3AF 
+ 8: 00007FF75189EF89 
+ 9: 00007FF75189D140 
+10: 00007FF7518BADB0 
+11: 00007FF7518BB465 
+12: 00007FF7518D08AB 
+13: 00007FF7518C936C 
+14: 00007FF751A114AA 
+15: 00007FF750FF7871 
+16: 00007FF7510FDA6B 
+17: 00007FF7519CF5D6 
+18: 00007FF7519CF1C9 
+19: 00007FF7519CF48C 
+20: 00007FF7519CF2F0 
+21: 00007FF751AA2641 
+22: 00000165A2D13CAB 
+
+<--- Last few GCs --->
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF7511530AF 
+ 2: 00007FF7510E2216 
+ 3: 00007FF7510E30CD 
+ 4: 00007FF751A14B6E 
+ 5: 00007FF7519FF09D 
+ 6: 00007FF7518A268C 
+ 7: 00007FF7518AC3AF 
+ 8: 00007FF75189EF89 
+ 9: 00007FF75189D140 
+10: 00007FF7518BADB0 
+11: 00007FF7518BB465 
+12: 00007FF7518CD15E 
+13: 00007FF7518CFDBA 
+14: 00007FF7518CFCDD 
+15: 00007FF7518BE930 
+16: 00007FF7518CB7B1 
+17: 00007FF7515EF73C 
+18: 00007FF751AA2541 
+19: 00007FF751ACEB76 
+20: 00007FF751B350A5 
+21: 00007FF751A34AEE 
+22: 00007FF751A34AEE 
+23: 00007FF751A34AEE 
+24: 00007FF751A34AEE 
+25: 00007FF751A34AEE 
+26: 00007FF751A34AEE 
+27: 00007FF751A34AEE 
+28: 00007FF751A34AEE 
+29: 00007FF751A34AEE 
+30: 00007FF751A34AEE 
+31: 00007FF751A34AEE 
+32: 00007FF751A34AEE 
+33: 00007FF751A34AEE 
+34: 00007FF751A34AEE 
+35: 00007FF751A34AEE 
+36: 00007FF751A34AEE 
+37: 00007FF751A34AEE 
+38: 00007FF751A32CFC 
+39: 00007FF751A328FB 
+40: 00007FF751913641 
+41: 00007FF751912F2F 
+42: 00007FF7519F5FCC 
+43: 00007FF7511145CE 
+44: 00007FF751118217 
+45: 00007FF7511185C8 
+46: 00007FF75117F009 
+47: 00007FF75109AB83 
+48: 00007FF751117F1D 
+49: 00007FF750F388CC 
+50: 00007FF751F93A88 
+51: 00007FFEB6F47034 
+52: 00007FFEB7B02651 
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}
+Unhandled promise rejection: HTTPError [FetchError]: request to https://discord.com/api/v7/gateway/bot failed, reason: getaddrinfo ENOTFOUND discord.com
+    at RequestHandler.execute (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:93:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async WebSocketManager.connect (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:138:9)
+    at async Client.login (C:\Users\Catarsis\Desktop\PlayersBot\node_modules\discord.js\src\client\Client.js:223:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot'
+}

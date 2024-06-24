@@ -1,0 +1,188 @@
+2021-12-06 18:47:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-06 18:47:10 - Started 30208
+2021-12-09 14:58:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-09 14:58:22 - Started 4220
+2021-12-14 11:50:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-14 11:50:34 - Started 4232
+2021-12-16 13:54:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-16 13:54:58 - Started 4080
+2021-12-16 18:16:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-16 18:16:47 - Started 4312
+2021-12-25 03:32:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-25 03:32:01 - Started 4088
+2021-12-25 09:45:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-25 09:45:36 - Started 3864
+2021-12-30 12:04:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-30 12:04:09 - Started 4308
+2021-12-30 12:16:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-30 12:16:57 - Started 4324
+2021-12-30 12:33:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-30 12:33:59 - Started 4252
+2021-12-30 12:38:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-30 12:38:46 - Started 4316
+2021-12-30 12:45:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-30 12:45:39 - Started 4296
+2022-01-07 12:33:18 - Stopping discordrustserverstatus.exe
+2022-01-07 12:33:18 - ProcessKill 4296
+2022-01-07 12:33:18 - Shutdown exception
+Message:Se está cerrando el sistema.
+
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2022-01-07 12:36:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-07 12:36:46 - Started 4996
+2022-01-13 15:56:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-13 15:56:39 - Started 3908
+2022-01-13 15:57:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-13 15:57:26 - Started 4904
+2022-01-14 03:26:41 - Stopping discordrustserverstatus.exe
+2022-01-14 03:26:41 - ProcessKill 4904
+2022-01-14 03:26:41 - Shutdown exception
+Message:Se está cerrando el sistema.
+
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2022-01-14 03:27:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-14 03:27:21 - Started 3740
+2022-01-17 13:07:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:07:41 - Started 4612
+2022-01-17 13:10:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:10:38 - Started 4920
+2022-01-17 13:13:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:13:30 - Started 4972
+2022-01-17 13:35:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:35:26 - Started 5076
+2022-01-17 13:42:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:42:16 - Started 4776
+2022-01-17 13:44:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:44:49 - Started 4932
+2022-01-17 13:52:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:52:06 - Started 5128
+2022-01-17 13:53:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:53:48 - Started 5968
+2022-01-17 13:55:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 13:55:44 - Started 5864
+                                                                                                                                                                                                                                                                                                                                                                                              2022-01-17 14:02:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 14:02:15 - Started 5072
+2022-01-17 14:07:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 14:07:22 - Started 4472
+2022-01-17 14:10:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 14:10:23 - Started 5136
+2022-01-17 14:12:45 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 14:12:45 - Started 4724
+2022-01-17 14:15:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-01-17 14:15:06 - Started 5676
+2022-02-01 11:07:31 - Stopping discordrustserverstatus.exe
+2022-02-01 11:07:31 - ProcessKill 5676
+2022-02-01 11:07:31 - Shutdown exception
+Message:Se está cerrando el sistema.
+
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2022-02-01 11:08:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-01 11:08:15 - Started 5784
+2022-02-10 03:35:47 - Stopping discordrustserverstatus.exe
+2022-02-10 03:35:47 - ProcessKill 5784
+2022-02-10 03:35:47 - Shutdown exception
+Message:Se está cerrando el sistema.
+
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2022-02-10 03:36:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-10 03:36:35 - Started 4584
+2022-02-12 12:45:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-12 12:45:24 - Started 3576
+2022-02-17 08:22:05 - Stopping discordrustserverstatus.exe
+2022-02-17 08:22:05 - ProcessKill 3576
+2022-02-17 08:22:05 - Shutdown exception
+Message:Se está cerrando el sistema.
+
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2022-02-17 08:22:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-17 08:22:48 - Started 5872
+2022-02-18 08:56:35 - Stopping discordrustserverstatus.exe
+2022-02-18 08:56:35 - ProcessKill 5872
+2022-02-18 08:56:35 - Shutdown exception
+Message:Se está cerrando el sistema.
+
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2022-02-18 08:57:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-18 08:57:18 - Started 4920
+2022-02-19 13:52:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-19 13:52:10 - Started 5256
+2022-02-19 23:32:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-19 23:32:06 - Started 5856
+2022-03-09 09:38:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-09 09:38:13 - Started 5144
+2022-03-09 17:45:33 - Stopping discordrustserverstatus.exe
+2022-03-09 17:45:33 - ProcessKill 5144
+2022-03-09 17:45:34 - Shutdown exception
+Message:Se está cerrando el sistema.
+
+Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   en System.Management.ManagementScope.InitializeGuts(Object o)
+   en System.Management.ManagementScope.Initialize()
+   en System.Management.ManagementObjectSearcher.Initialize()
+   en System.Management.ManagementObjectSearcher.Get()
+   en winsw.WrapperService.GetChildPids(Int32 pid)
+   en winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   en winsw.WrapperService.StopIt()
+   en winsw.WrapperService.OnShutdown()
+2022-03-09 17:46:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-09 17:46:16 - Started 4908
+2022-03-15 14:11:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-15 14:11:06 - Started 5036
+2022-03-15 14:23:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-15 14:23:56 - Started 5204
+2022-03-15 14:41:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-15 14:41:41 - Started 4944
+2022-03-16 20:03:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-16 20:03:53 - Started 5092
+2022-03-17 14:31:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-17 14:31:21 - Started 4856
+2022-04-12 19:23:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Catarsis\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\Catarsis\Desktop\PlayersBot\app.js --scriptoptions= --log "discord-rustserverstatus wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-12 19:23:16 - Started 4952
