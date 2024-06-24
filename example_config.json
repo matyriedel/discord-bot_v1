@@ -4,7 +4,7 @@
   "apiSite" : 3,
   "apiUrl" : "https://api.battlemetrics.com/servers/ ",
   "serverIp": "",
-  "serverPort": "27017",
+  "serverPort": "",
   "enableRcon" : "0",
   "rconhost"   : "",
   "rconport"   : "",
