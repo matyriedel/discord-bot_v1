@@ -1,8 +1,8 @@
 {
   "debug" : false,
-  "token"  : " ",
+  "token"  : "token discord bot",
   "apiSite" : 3,
-  "apiUrl" : "https://api.battlemetrics.com/servers/ ",
+  "apiUrl" : "url",
   "serverIp": "",
   "serverPort": "",
   "enableRcon" : "0",
